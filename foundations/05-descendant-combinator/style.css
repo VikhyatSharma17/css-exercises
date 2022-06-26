@@ -1,0 +1,15 @@
+/* This uses the tags to style */
+div p {
+    background-color: yellow;
+    color: #ff0000;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* This uses the classes to style */
+.container .text {
+    background-color: #ffff00;
+    color: #ff0000;
+    font-size: 20px;
+    text-align: center;
+}

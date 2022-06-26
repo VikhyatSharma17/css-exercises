@@ -1,0 +1,14 @@
+.first-elem,
+.second-elem {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.first-elem {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.second-elem {
+    background-color: #ffff00;
+}

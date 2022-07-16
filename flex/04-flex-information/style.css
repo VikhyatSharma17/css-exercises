@@ -2,6 +2,24 @@ body {
   font-family: 'Courier New', Courier, monospace;
 }
 
+.main-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+}
+
+.plant-list {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.plant-list div {
+  width: 12rem; /*max-width: 12rem;*/
+  text-align: center;
+}
+
 img {
   width: 100px;
   height: 100px;
